@@ -15,15 +15,10 @@
   <li>👾 Cyber Security</li>
 </ul>
 
-<h2>🛠️ Tecnologias</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
 ---
+
+<img width="480" height="270" alt="hackerhackingGIF" src="https://github.com/user-attachments/assets/ad9ef265-cc4b-458b-a05b-cd786ea0ab6c" />
+
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil!
