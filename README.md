@@ -12,8 +12,7 @@
   <li>💻 Programação e desenvolvimento de software</li>
   <li>🌐 Redes de computadores</li>
   <li>🐙 Git e GitHub</li>
-  <li><img width="450" height="450" alt="HackingHackerManGIFbyPERFECTL00P" src="https://github.com/user-attachments/assets/c339631c-964f-4044-8e6b-92acfed256ef" />
-</li>
+  <li>👾 Cyber Security</li>
 </ul>
 
 <h2>🛠️ Tecnologias</h2>
