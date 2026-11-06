@@ -1,4 +1,4 @@
-<h1 align="center">Meu Codname é Lexios, sou apenas um entusiasta bastante interessado na área de Cyber Segurança 👾</h1>
+<p align="center">Meu Codname é Lexios, sou apenas um entusiasta bastante interessado na área de Cyber Segurança 👾</p>
 
 <p align="center">
   <strong>Estudante de Tecnologia | Desenvolvedor | Cyber Security</strong>
