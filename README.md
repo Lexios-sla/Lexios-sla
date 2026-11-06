@@ -9,5 +9,3 @@
 </p>
 
 ---
-
-<img width="480" height="270" alt="hackerhackingGIF" src="https://github.com/user-attachments/assets/ad9ef265-cc4b-458b-a05b-cd786ea0ab6c" />
