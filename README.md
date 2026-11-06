@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Interesses
+## Interesses
 
 - 💻 Programação e desenvolvimento de software
 - 🌐 Redes de computadores
@@ -36,15 +36,4 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lexios-sla&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexios-sla&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top languages" />
-</p>
-
----
-
 <img width="480" height="270" alt="hackerhackingGIF" src="https://github.com/user-attachments/assets/ad9ef265-cc4b-458b-a05b-cd786ea0ab6c" />
-
----
