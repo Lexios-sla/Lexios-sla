@@ -13,7 +13,7 @@
 <h1 align="center">𝙻𝚎𝚡𝚒𝚘𝚜</h1>
 
 <p align="center">
-  <code>apenas um entusiasta em Cyber Segurança 👾</code>
+  apenas um entusiasta em Cyber Segurança 👾
 </p>
 
 <p align="center">
