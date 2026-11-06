@@ -10,11 +10,10 @@
   <i>"Até alguém sem sentimentos pode encontrar uma razão para viver."</i>
 </p>
 
+<h1 align="center">Lexios</h1>
+
 <p align="center">
-  <h1 align="center">Lexios</h1>
-  <p align="center">
-    Sou apenas um entusiasta bastante interessado na área de Cyber Segurança 👾
-  </p>
+  Sou apenas um entusiasta bastante interessado na área de Cyber Segurança 👾
 </p>
 
 <p align="center">
