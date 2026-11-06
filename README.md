@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/4f217a14-0a1f-4ade-9f50-9e9c82890a01"
-    width="900"
+    width="700"
     alt="Gabimaru"
   />
 </p>
