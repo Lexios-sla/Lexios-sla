@@ -10,8 +10,6 @@
   <i>"Até alguém sem sentimentos pode encontrar uma razão para viver."</i>
 </p>
 
----
-
 <p align="center">
   <h1 align="center">Lexios</h1>
   <p align="center">
